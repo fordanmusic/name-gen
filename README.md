@@ -4,7 +4,7 @@ Randon name generators for the purpose of naming recording files.
 
 # wordcrea2
 
-A continuation of wordcrea, originally written in TI-83 basic. Creates random word, based on some linguistic rules.
+A continuation of wordcrea, originally written in TI-83 basic. Creates a word using random letters, based on some linguistic rules.
 
 # darklord-supreme
 
